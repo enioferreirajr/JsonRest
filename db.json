@@ -1,59 +1,58 @@
-{ "Colaboradores: [
 [
- {
-  "CON_CdiContratado": 1,
-  "CON_DssNomeCompleto": "LUCIANA FERREIRA",
-  "CON_NusCICNumero": "260.235.418-01",
-  "CON_CosEMail": "malupharma@hotmail.com\/lumapharma@hotmail.com"
- },
- {
-  "CON_CdiContratado": 2,
-  "CON_DssNomeCompleto": "BRUNA CAROLINO DE SOUZA",
-  "CON_NusCICNumero": "377.921.768-60",
-  "CON_CosEMail": "bruna.souza@suhaiseguradora.com"
- },
- {
-  "CON_CdiContratado": 3,
-  "CON_DssNomeCompleto": "JULIANA TEIXEIRA DE ALMEIDA",
-  "CON_NusCICNumero": "313.135.788-60",
-  "CON_CosEMail": "juliana.almeida@suhaiseguros.com.br"
- },
- {
-  "CON_CdiContratado": 4,
-  "CON_DssNomeCompleto": "BRUNA SILVA ALMEIDA",
-  "CON_NusCICNumero": "384.947.318-07",
-  "CON_CosEMail": "bru_na.almeida@yahoo.com.br"
- },
- {
-  "CON_CdiContratado": 5,
-  "CON_DssNomeCompleto": "KAREM CABRAL DA SILVA",
-  "CON_NusCICNumero": "389.773.928-37",
-  "CON_CosEMail": "karem.silva@suhaiseguradora.com"
- },
- {
-  "CON_CdiContratado": 6,
-  "CON_DssNomeCompleto": "FERNANDA KATE DE OLIVEIRA GONCALVES",
-  "CON_NusCICNumero": "353.569.598-85",
-  "CON_CosEMail": "fernanda.oliveira@suhaiseguros.com.br"
- },
- {
-  "CON_CdiContratado": 7,
-  "CON_DssNomeCompleto": "VIVIANE CAETANO BORGES DE SOUZA",
-  "CON_NusCICNumero": "227.346.718-40",
-  "CON_CosEMail": "viviane.souza@suhaiseguradora.com"
- },
- {
-  "CON_CdiContratado": 8,
-  "CON_DssNomeCompleto": "BIANCA MONTEIRO RODRIGUES",
-  "CON_NusCICNumero": "245.961.798-40",
-  "CON_CosEMail": "bianca_monteiro75@hotmail.com"
- },
- {
-  "CON_CdiContratado": 9,
-  "CON_DssNomeCompleto": "MARILIA NASCIMENTO",
-  "CON_NusCICNumero": "836.522.729-00",
-  "CON_CosEMail": "nascimento_mari@yahoo.com.br"
- }
-]
-]
-}
+	{ "Colaboradores":
+		{
+		"CON_CdiContratado": 1,
+		"CON_DssNomeCompleto": "LUCIANA FERREIRA",
+		"CON_NusCICNumero": "260.235.418-01",
+		"CON_CosEMail": "malupharma@hotmail.com\/lumapharma@hotmail.com"
+		},
+		{
+		"CON_CdiContratado": 2,
+		"CON_DssNomeCompleto": "BRUNA CAROLINO DE SOUZA",
+		"CON_NusCICNumero": "377.921.768-60",
+		"CON_CosEMail": "bruna.souza@suhaiseguradora.com"
+		},
+		{
+		"CON_CdiContratado": 3,
+		"CON_DssNomeCompleto": "JULIANA TEIXEIRA DE ALMEIDA",
+		"CON_NusCICNumero": "313.135.788-60",
+		"CON_CosEMail": "juliana.almeida@suhaiseguros.com.br"
+		},
+		{
+		"CON_CdiContratado": 4,
+		"CON_DssNomeCompleto": "BRUNA SILVA ALMEIDA",
+		"CON_NusCICNumero": "384.947.318-07",
+		"CON_CosEMail": "bru_na.almeida@yahoo.com.br"
+		},
+		{
+		"CON_CdiContratado": 5,
+		"CON_DssNomeCompleto": "KAREM CABRAL DA SILVA",
+		"CON_NusCICNumero": "389.773.928-37",
+		"CON_CosEMail": "karem.silva@suhaiseguradora.com"
+		},
+		{
+		"CON_CdiContratado": 6,
+		"CON_DssNomeCompleto": "FERNANDA KATE DE OLIVEIRA GONCALVES",
+		"CON_NusCICNumero": "353.569.598-85",
+		"CON_CosEMail": "fernanda.oliveira@suhaiseguros.com.br"
+		},
+		{
+		"CON_CdiContratado": 7,
+		"CON_DssNomeCompleto": "VIVIANE CAETANO BORGES DE SOUZA",
+		"CON_NusCICNumero": "227.346.718-40",
+		"CON_CosEMail": "viviane.souza@suhaiseguradora.com"
+		},
+		{
+		"CON_CdiContratado": 8,
+		"CON_DssNomeCompleto": "BIANCA MONTEIRO RODRIGUES",
+		"CON_NusCICNumero": "245.961.798-40",
+		"CON_CosEMail": "bianca_monteiro75@hotmail.com"
+		},
+		{
+		"CON_CdiContratado": 9,
+		"CON_DssNomeCompleto": "MARILIA NASCIMENTO",
+		"CON_NusCICNumero": "836.522.729-00",
+		"CON_CosEMail": "nascimento_mari@yahoo.com.br"
+		}
+	}
+]	
