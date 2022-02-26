@@ -1,5 +1,5 @@
-[
-	{ "Colaboradores":
+{
+	  "Colaboradores": [
 		{
 		"CON_CdiContratado": 1,
 		"CON_DssNomeCompleto": "LUCIANA FERREIRA",
@@ -54,5 +54,5 @@
 		"CON_NusCICNumero": "836.522.729-00",
 		"CON_CosEMail": "nascimento_mari@yahoo.com.br"
 		}
-	}
-]	
+	]
+}	
